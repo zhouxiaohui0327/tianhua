@@ -18,9 +18,9 @@
         <a class="logo" href="index.php" title="酷维网络科技"></a>
         <div class="nav">
             <a href="index.php" title="首页">首页</a>
-            <a href="aso.php" title="ASO">工厂介绍</a>
-            <a href="swap.php" title="生产模式">生产模式</a>
-            <a href="market.php" title="优质产品">优质产品</a>
+            <a href="introduce.php" title="ASO">工厂介绍</a>
+            <a href="pattern.php" title="生产模式">生产模式</a>
+            <a href="product.php" title="优质产品">优质产品</a>
             <a href="contact.php" title="联系我们">联系我们</a>
         </div>
 
