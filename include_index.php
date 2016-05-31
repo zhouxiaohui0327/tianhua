@@ -6,7 +6,7 @@ require_once "mysql.php";
 connectDb();
 function get_list($table_name,$offset,$limit,$orderBy="order by id desc") {
     $list = array();
-    $query = mysql_query("SELECT * FROM $table_name $orderBy limit  $offset,$limit");
+    $query = mysql_query("SELECT * FROM $table_name WHERE `status`>=0 $orderBy limit  $offset,$limit");
     $count = mysql_num_rows($query);
     if($count <= 0) {
         return $list;

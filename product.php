@@ -64,14 +64,14 @@ include "carousel.php";
             <nav style="  text-align: -webkit-center;">
                 <ul class="pagination">
                     <li>
-                        <a href="add.php?page=<?php echo $page - 1;?>" aria-label="Previous">
+                        <a href="product.php?page=<?php echo $page - 1;?>" aria-label="Previous">
                             <span aria-hidden="true">&laquo;</span>
                         </a>
                     </li>
                     <?php
                     for ($i=$page;$i<=$page+$b&&$i<=$totalPage;$i++) {
                         ?>
-                        <li><a href="add.php?page=<?php echo $i;?>"><?php echo $i ;?></a></li>
+                        <li><a href="product.php?page=<?php echo $i;?>"><?php echo $i ;?></a></li>
                     <?php
                     }
                     ?>
@@ -88,7 +88,7 @@ include "carousel.php";
                     }else {
                         ?>
                         <li>
-                            <a href="add.php?page=<?php echo $page + 1;?>" aria-label="Next">
+                            <a href="product.php?page=<?php echo $page + 1;?>" aria-label="Next">
                                 <span aria-hidden="true">&raquo;</span>
                             </a>
                         </li>
