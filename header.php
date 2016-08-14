@@ -15,7 +15,7 @@
 <body>
 <div class="header container-fluid">
     <div class="w-1000 container">
-        <a class="logo" href="index.php" title="天华服饰"></a>
+        <a class="logo" href="index.php" title="天华 服饰"></a>
         <div class="nav">
             <a href="index.php" title="首页">首页</a>
             <a href="introduce.php" title="ASO">工厂介绍</a>
