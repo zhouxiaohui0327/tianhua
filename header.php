@@ -2,7 +2,7 @@
 <html>
 <head lang="zh-cn">
     <meta charset="UTF-8">
-    <title>天华服饰</title>
+    <title>天华服装厂</title>
     <link rel="stylesheet" type="text/css"  href="http://cdn.bootcss.com/bootstrap/3.3.4/css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="css/base.css">
     <link rel="stylesheet" type="text/css" href="css/pay.css">
