@@ -25,6 +25,8 @@ include "carousel.php";
                 <img src="./images/bangong.jpg" style="width:70%" alt="">
                 <p style="margin:20px auto">样品区</p>
                 <img src="./images/yangpin.jpg" style="width:70%" alt="">
+                <p style="margin:20px auto">生产区</p>
+                <img src="./images/shengchan.jpg" style="width:70%" alt="">
                 <p style="margin:20px auto">后道</p>
                 <img src="./images/houdao.jpg" style="width:70%" alt="">
             </div>
