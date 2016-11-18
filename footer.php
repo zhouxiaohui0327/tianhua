@@ -18,7 +18,7 @@
 </div>
 
 <div class="copyright">
-    <p>Copyright ©2015版权所有 瑞安天华服装厂</p>
-    <p>RuiAN TianHua （tianhuafs.com） All Rights Reserved. </p>
+    <p>Copyright ©2015版权所有 蓉易美服饰有限公司</p>
+    <p>RuiAN RongYiMei （tianhuafs.com） All Rights Reserved. </p>
 </div>
 
