@@ -1,0 +1,7 @@
+{
+    "require": {
+        "qiniu/php-sdk": "~7.0",
+        "os/php-excel": "2.1",
+        "sunra/php-simple-html-dom-parser": "~1.5"
+    }
+}
